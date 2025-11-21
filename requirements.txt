@@ -1,0 +1,5 @@
+Flask
+PyPDF2
+werkzeug
+google-generativeai
+python-dotenv
